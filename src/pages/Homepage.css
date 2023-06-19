@@ -4,7 +4,7 @@
 .homepage-intro{
     width: 80vw;
     height: auto;
-    margin-top: 10rem;
+    margin-top: clamp(6rem,15vw,10rem);
     margin-inline:auto;
     display: flex;
     flex-wrap: wrap;
@@ -126,7 +126,6 @@
     background-color: var(--clr-secondary-button);
 }
 .icon-cards>p{
-    color: var(--clr-accent);
     font-size: var(--fs-200);
     font-weight: 400;
     padding-top: 1rem;

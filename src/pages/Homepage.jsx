@@ -2,6 +2,8 @@ import React from "react";
 
 import "./Homepage.css";
 import Navbar from "../components/Navbar/Navbar";
+import Footer from "../components/Footer/Footer";
+
 import { TbTruckDelivery } from "react-icons/tb";
 import { BsPatchCheckFill } from "react-icons/bs";
 import { GiReturnArrow } from "react-icons/gi";
@@ -76,6 +78,7 @@ const Homepage = () => {
           </div>
         </div>
       </div>
+      <Footer />
     </div>
   );
 };
