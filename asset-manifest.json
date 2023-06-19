@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/anjali_frontend/static/css/main.f79e406e.css",
+    "main.js": "/anjali_frontend/static/js/main.6fe6ac94.js",
+    "static/media/kanchipuram_saree.jpeg": "/anjali_frontend/static/media/kanchipuram_saree.ce169559a053989f7dee.jpeg",
+    "static/media/Baluchori_saree.jpg": "/anjali_frontend/static/media/Baluchori_saree.923dd6a44587fcbbe493.jpg",
+    "static/media/Sambalpuri.jpg": "/anjali_frontend/static/media/Sambalpuri.b762829f4cd04ec1b694.jpg",
+    "static/media/Bomkai_saree.jpg": "/anjali_frontend/static/media/Bomkai_saree.dd3b2e640956264322f1.jpg",
+    "static/media/banarasi_saree.webp": "/anjali_frontend/static/media/banarasi_saree.7c497a7a99a3b0e2598b.webp",
+    "static/media/silk_saree.png": "/anjali_frontend/static/media/silk_saree.e8d88c980221e083ef53.png",
+    "static/media/home-intropic.png": "/anjali_frontend/static/media/home-intropic.badf4ea70b8ac0d56c9c.png",
+    "index.html": "/anjali_frontend/index.html",
+    "main.f79e406e.css.map": "/anjali_frontend/static/css/main.f79e406e.css.map",
+    "main.6fe6ac94.js.map": "/anjali_frontend/static/js/main.6fe6ac94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f79e406e.css",
+    "static/js/main.6fe6ac94.js"
+  ]
+}
